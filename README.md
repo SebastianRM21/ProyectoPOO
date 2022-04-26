@@ -1,6 +1,6 @@
-##Hellowdaaaaa!!
+Hellowdaaaaa!!
 
-##Entra tengo tacos
+Entra tengo tacos
 
 estoy creando mi primer repositorio y el readme.md, un saludo
 
